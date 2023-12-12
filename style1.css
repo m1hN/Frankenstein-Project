@@ -1,0 +1,22 @@
+body {
+    width: 800px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding: 80px 80px;
+}
+
+html {
+    background: url(img/frank.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+br {
+    color : red;
+    border : 1px solid green;
+    margin-bottom : 5px;
+}

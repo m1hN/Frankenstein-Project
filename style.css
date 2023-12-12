@@ -1,0 +1,53 @@
+body {
+    width: 800px;
+    background-color: black;
+    color: white;
+    margin: auto;
+    padding: 80px 80px;
+}
+
+html {
+    background: url(img/frank.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
+
+br {
+    color : red;
+    border : 1px solid green;
+    margin-bottom : 5px;
+}
+
+#replybtn {
+    background-color: black;
+    color: white;
+    border-color: darkgreen;
+}
+#replybtn:hover {
+    background-color: white;
+    color: black;
+}
+
+.noreply {
+    background-color: darkgreen;
+    color: white;
+}
+
+#div1 {
+    border: solid;
+    padding: 20px 20px 20px 20px;
+}
+
+#johnsComment {
+    text-align: left;
+}
+
+#commentsec {
+    border: solid white;
+    padding: 50px;
+}
+
+
