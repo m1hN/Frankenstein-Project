@@ -4,6 +4,7 @@ body {
     color: white;
     margin: auto;
     padding: 80px 80px;
+    font-size: 16px;
 }
 
 html {
@@ -21,12 +22,14 @@ br {
     margin-bottom : 5px;
 }
 
-#replybtn {
+.colorbtn {
     background-color: black;
     color: white;
     border-color: darkgreen;
+    margin-top: 20px;
 }
-#replybtn:hover {
+
+.colorbtn:hover {
     background-color: white;
     color: black;
 }
